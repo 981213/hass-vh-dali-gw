@@ -1,0 +1,17 @@
+{
+  "domain": "vh_daligw",
+  "name": "VUNHO Dali Gateway",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/vh_daligw",
+  "requirements": [
+    "pymodbus==2.5.2"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@981213"
+  ],
+  "iot_class": "local_polling"
+}
